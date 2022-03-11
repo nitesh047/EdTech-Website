@@ -33,3 +33,15 @@
     padding: 0px !important;
 
 }
+
+#discuss{
+    font-family: 'Inter', sans-serif;
+    border-bottom: 3px solid #365cf7;
+    width: 363px;
+}
+
+@media screen and (max-width: 379px) {
+ #discuss{
+     width: 220px;
+ }
+}
