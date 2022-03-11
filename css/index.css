@@ -1,0 +1,35 @@
+#nav-links{
+    font-size: 18px;
+    margin-right: 15px;
+    color: white;
+}
+#nav-links:hover{
+    color: #046178;
+}
+
+#nav-buttons{
+    border: 1px solid green;
+    color: green;
+    font-size: 18px;
+    margin-right: 15px;
+    padding: 7px 15px;
+    width: fit-content;
+}
+#nav-buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
+
+#backk{
+    background-image: url(https://gravityinstitute.co.in/wp-content/themes/html5blank-stable/images/bg.jpg);
+    height: 50vh;
+    width: 100%;
+    background-attachment: fixed;
+    padding: 0px !important;
+
+}
